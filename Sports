@@ -62,3 +62,4 @@ plugin://plugin.video.sky.sport.now/?_=play&media_id=87&media_type=channel&_l=.p
 #EXTINF:0 tvg-id="050" tvg-name="SKY_Sport_News", Sky Sport News
 plugin://plugin.video.sky.sport.now/?_=play&media_id=88&media_type=channel&_l=.pvr
  
+
