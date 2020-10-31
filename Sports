@@ -1,131 +1,45 @@
-#EXTM3U
-SILK SPORT 1
-http://188.93.94.133/silk_football/index.m3u8
-SILK SPORT 2
-http://188.93.94.133/silk_sport2/index.m3u8
-SILK SPORT 3
-http://188.93.94.133/silk_sport/index.m3u8
-SILK SPORT 4
-http://188.93.94.133/silk_sport4/index.m3u8
+#EXTM3U 
 
-
-#EXTINF:0,AR: Bein Sport 1 HD
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/169.ts
-#EXTINF:0,AR: Bein Sport 2 HD
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/168.ts
-#EXTINF:0,AR: Bein Sport 3 HD
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/167.ts
-#EXTINF:0,AR: Bein Sport 4 HD
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/166.ts
-#EXTINF:0,AR: Bein Sport 5 HD
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/165.ts
-#EXTINF:0,AR: Bein Sport 6 HD
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/164.ts
-#EXTINF:0,AR: Bein Sport 7 HD
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/163.ts
-#EXTINF:0,AR: Bein Sport 8 HD
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/162.ts
-#EXTINF:0,AR: Bein Sport 9 HD
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/161.ts
-#EXTINF:0,AR: Bein Sport 10 HD
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/160.ts
-#EXTINF:0,AR: Bein Sport 11 HD
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/159.ts
-
-
-#EXTINF:0,DE: Sky Sport 1 HD
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/829.ts
-#EXTINF:0,DE: Sky Sport 2 HD
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/826.ts
-#EXTINF:0,DE: Sky Sport 1
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/827.ts
-#EXTINF:0,DE: Sky Sport 2
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/828.ts
-#EXTINF:0,DE: Sky Eurosport 1
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/809.ts
-#EXTINF:0,DE: Sky Bundesliga HD 1
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/810.ts
-#EXTINF:0,DE: Sky Sport Time 1
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/817.ts
-#EXTINF:0,DE: Sky Sport Time 2
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/816.ts
-#EXTINF:0,DE: Sky Sport Time 3
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/815.ts
-#EXTINF:0,DE: Sky Sport Time 4
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/814.ts
-#EXTINF:0,DE: Sky Sport Time 5
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/813.ts
-#EXTINF:0,DE: Sky Sport Time 6
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/812.ts
-#EXTINF:0,DE: Sky Sport Time 7
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/811.ts
-
-
-
-
-
-
-#EXTINF:0,FR: Eurosport 1 HD
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/356.ts
-#EXTINF:0,FR: Eurosport 2 HD
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/355.ts
-#EXTINF:0,SW: Digi Sport 1
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/1080.ts
-#EXTINF:0,SW: Digi Sport 2
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/1079.ts
-#EXTINF:0,SW: Digi Sport 3
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/1078.ts
-#EXTINF:0,SW: Digi TVR 1
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/1077.ts
-#EXTINF:0,SW: Digi TVR 2
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/1076.ts
-
-
-
-
-
-
-
-
-
-
-#EXTINF:0,SR: Sport Klub 3 HD
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/266.ts
-#EXTINF:0,SR: SuperSport 2 HD
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/263.ts
-#EXTINF:0,SR: SuperSport 3 HD
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/262.ts
-#EXTINF:0,SR: SuperSport 4 HD
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/261.ts
-#EXTINF:0,SR: SuperSport 1 HD
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/264.ts
-#EXTINF:0,SR: ArenaSport 1 HD Srb
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/271.ts
-#EXTINF:0,SR: ArenaSport 2 HD Srb
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/270.ts
-#EXTINF:0,SR: ArenaSport 3 HD Srb
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/269.ts
-#EXTINF:0,SR: ArenaSport 4 HD Srb
-http://ipsat.dvrdns.org:8000/live/jose7/gago7/242.ts
-#EXTINF:0,SR: ArenaSport 5 HD Srb
-
-
-
-
-
-#EXTINF:-1, DUBAI SPORTS 3
-http://origin2.live.web.tv.streamprovider.net/streams/7c7bb92d89f800dc5f0d9e98e7254503/index.m3u8
-#EXTINF:-1, AD SPORTS 1
-http://origin2.live.web.tv.streamprovider.net/streams/b1ce38c6870c24a64b3d9fbfa2c58b98/index.m3u8
-#EXTINF:-1 Sinema 5005
-mmsh://50.7.207.114:80/sinema5/udp/239.99.4.0:5005?MSWMExt=.asf
-#EXTINF:-1 Sinema 5004
-mmsh://50.7.207.114:80/sinema4/udp/239.99.4.0:5004?MSWMExt=.asf
-#EXTINF:-1 Sinema 5003
-mmsh://50.7.207.114:80/sinema3/udp/239.99.4.0:5003?MSWMExt=.asf
-#EXTINF:-1 Sinema 5002
-mmsh://50.7.207.114:80/sinema2/udp/239.99.4.0:5002?MSWMExt=.asf
-#EXTINF:-1 Sinema 5001
-mmsh://50.7.207.114:80/sinema1/udp/239.99.4.0:5001?MSWMExt=.asf
-#EXTINF:-1Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
+EXTINF:-1,MSNBC (HD)
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:-1,MSNBC (SD)
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8
+#EXTINF:-1,MSNBC (SD)*
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1896_av-b.m3u8
+#EXTINF:-1,Bloomberg TV
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:-1,Bloomberg TV*
+http://live-bloomberg-us-east.global.ssl.fastly.net/us/us3_live.m3u8
+#EXTINF:-1,Fox News Radio
+http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
+#EXTINF:-1,Voice of America
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:-1,C-SPAN
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
+#EXTINF:-1,C-SPAN 2
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
+#EXTINF:-1,C-SPAN 3
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
+#EXTINF:-1,Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1,Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1,Free Speech TV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+#EXTINF:-1,The Blaze
+https://theblaze.global.ssl.fastly.net/live/theblaze/master.m3u8
+#EXTINF:-1,InfoWars
+http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
+#EXTINF:-1,RT America
+https://secure-streams.akamaized.net/rt-usa/index.m3u8
+#EXTINF:-1,MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1,MLB Network*
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Tuesday_20170704_1499230681478/2400K/2400_slide.m3u8
+#EXTINF:-1,NBA TV
+http://216.31.255.235/hlsl/5/NBATV/NBATV.m3u8
+#EXTINF:-1,NBC Golf [NoRoku]
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,NFL Now
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+#EXTINF:-1,Cartoon Network
