@@ -1,233 +1,144 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-tZGbgfwqWTI/W0__9ckxzLI/AAAAAAAAl24/LHbrC6AHZlkxao2fL8XYssDfvDb8OW0iwCLcBGAs/s1600/tv-sport-channel-logo.png" group-title="Sports", TVRI Sports
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s32.postimg.cc/5coedna8l/EUROSPOPRT.png" group-title="Sports", EUROSPORTS 1
-http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/871
-
-#EXTINF:-1 tvg-logo="https://s32.postimg.cc/5coedna8l/EUROSPOPRT.png" group-title="Sports", EUROSPORTS 2
-http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/870
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports", Arena Sport 1
-http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/898.m3u8?checkedby
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports", Arena Sport 2
-http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/897.m3u8?checkedby
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports", Arena Sport 3
-http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/896.m3u8?checkedby
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports", Arena Sport 4
-http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/895.m3u8?checkedby
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_big1.png" group-title="SPORTS (USEETV)", Bein 1
-https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="SPORTS (USEETV)", Bein 2
-https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ms-f7-sites-01-cdn.azureedge.net/docs/stories/fox-sports/resources/d6b9eb9c-6edd-479f-9f47-a45eec3a5e37/1108212332004208271" group-title="SPORTS (USEETV)", Fox Sport 1
-https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ms-f7-sites-01-cdn.azureedge.net/docs/stories/fox-sports/resources/d6b9eb9c-6edd-479f-9f47-a45eec3a5e37/1108212332004208271" group-title="SPORTS (USEETV)", Fox Sport 2
-https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ms-f7-sites-01-cdn.azureedge.net/docs/stories/fox-sports/resources/d6b9eb9c-6edd-479f-9f47-a45eec3a5e37/1108212332004208271" group-title="SPORTS (USEETV)", Fox Sport 3
-https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png" group-title="SPORTS (USEETV)", True Premier 1
-https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS (USEETV)", True Premier 2
-https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png" group-title="SPORTS (USEETV)", True Premier 3
-https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png" group-title="SPORTS (USEETV)", True Premier 4
-https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="SPORTS (USEETV)", NBA
-https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-golf.png" group-title="SPORTS (USEETV)", Golf Channel
-https://www.livedoomovies.com/02_golfhd_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tennis.png" group-title="SPORTS (USEETV)", True Tennis HD
-https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7ec3pQoteZTGuErqYKzauAv1Or9QhudDgYw&usqp=CAU" group-title="SPORTS (USEETV)", True Sport 1
-https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7ec3pQoteZTGuErqYKzauAv1Or9QhudDgYw&usqp=CAU" group-title="SPORTS (USEETV)", True Sport 2
-https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7ec3pQoteZTGuErqYKzauAv1Or9QhudDgYw&usqp=CAU" group-title="SPORTS (USEETV)", True Sport 3
-https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7ec3pQoteZTGuErqYKzauAv1Or9QhudDgYw&usqp=CAU" group-title="SPORTS (USEETV)", True Sport 4
-https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7ec3pQoteZTGuErqYKzauAv1Or9QhudDgYw&usqp=CAU" group-title="SPORTS (USEETV)", True Sport 5
-https://www.livedoomovies.com/02_sport5_480p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7ec3pQoteZTGuErqYKzauAv1Or9QhudDgYw&usqp=CAU" group-title="SPORTS (USEETV)", True Sport 6
-https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7ec3pQoteZTGuErqYKzauAv1Or9QhudDgYw&usqp=CAU" group-title="SPORTS (USEETV)", True Sport 7
-https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/Eurosport4K_655440_0.jpg" group-title="Sports", EUROSPORT 4K-7
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-25200&checkedby
-
-#EXTINF:-1 tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/Eurosport4K_655440_0.jpg" group-title="Sports", EUROSPORT 4K-8
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-28800&checkedby
-
-#EXTINF:-1 tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/Eurosport4K_655440_0.jpg" group-title="Sports", EUROSPORT 4K-9
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-32400&checkedby
-
-#EXTINF:-1 tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/Eurosport4K_655440_0.jpg" group-title="Sports", EUROSPORT 4K-10
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-36000&checkedby
-
-#EXTINF:-1 tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/Eurosport4K_655440_0.jpg" group-title="Sports", EUROSPORT 4K-11
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-39600&checkedby
-
-#EXTINF:-1 tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/Eurosport4K_655440_0.jpg" group-title="Sports", EUROSPORT 4K-12
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-43200&checkedby
-
-#EXTINF:-1 tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/Eurosport4K_655440_0.jpg" group-title="Sports", EUROSPORT 4K-13
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-46800&checkedby
-
-#EXTINF:-1 tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/Eurosport4K_655440_0.jpg" group-title="Sports", EUROSPORT 4K-14
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-50400&checkedby
-
-#EXTINF:-1 tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/Eurosport4K_655440_0.jpg" group-title="Sports", EUROSPORT 4K-15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-54000&checkedby
-
-#EXTINF:-1 tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/Eurosport4K_655440_0.jpg" group-title="Sports", EUROSPORT 4K-16
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-57600&checkedby
-
-#EXTINF:-1 tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/Eurosport4K_655440_0.jpg" group-title="Sports", EUROSPORT 4K-17
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-61200&checkedby
-
-#EXTINF:-1 tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/Eurosport4K_655440_0.jpg" group-title="Sports", EUROSPORT 4K-18
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-64800&checkedby
-
-#EXTINF:-1 tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/Eurosport4K_655440_0.jpg" group-title="Sports", EUROSPORT 4K-19
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-68400&checkedby
-
-#EXTINF:-1 tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/Eurosport4K_655440_0.jpg" group-title="Sports", EUROSPORT 4K-20
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-72000&checkedby
-
-#EXTINF:-1 tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/Eurosport4K_655440_0.jpg" group-title="Sports", EUROSPORT 4K-21
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-75600&checkedby
-
-#EXTINF:-1 tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/Eurosport4K_655440_0.jpg" group-title="Sports", EUROSPORT 4K-22
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-79200&checkedby
-
-#EXTINF:-1 tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/Eurosport4K_655440_0.jpg" group-title="Sports", EUROSPORT 4K-23
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-82800&checkedby
-
-#EXTINF:-1 tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/Eurosport4K_655440_0.jpg" group-title="Sports", EUROSPORT 4K-24
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-86400&checkedby
-
-#EXTINF:-1 tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/Eurosport4K_655440_0.jpg" group-title="Sports", EUROSPORT 4K-25
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-90000&checkedby
-
-#EXTINF:-1 tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/Eurosport4K_655440_0.jpg" group-title="Sports", EUROSPORT 4K-26
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-93600&checkedby
-
-#EXTINF:-1 tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/Eurosport4K_655440_0.jpg" group-title="Sports", EUROSPORT 4K-27
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-97200&checkedby
-
-#EXTINF:-1 tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/Eurosport4K_655440_0.jpg" group-title="Sports", EUROSPORT 4K-28
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-100800&checkedby
-
-#EXTINF:-1 tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/Eurosport4K_655440_0.jpg" group-title="Sports", EUROSPORT 4K-29
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-104400&checkedby
-
-#EXTINF:-1 tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/Eurosport4K_655440_0.jpg" group-title="Sports", EUROSPORT 4K-30
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-108000&checkedby
-
-#EXTINF:-1 tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/Eurosport4K_655440_0.jpg" group-title="Sports", EUROSPORT 4K-31
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-111600&checkedby
-
-#EXTINF:-1 tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/Eurosport4K_655440_0.jpg" group-title="Sports", EUROSPORT 4K-32
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-115200&checkedby
-
-#EXTINF:-1 tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/Eurosport4K_655440_0.jpg" group-title="Sports", EUROSPORT 4K-33
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-118800&checkedby
-
-#EXTINF:-1 tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/Eurosport4K_655440_0.jpg" group-title="Sports", EUROSPORT 4K-34
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-122400&checkedby
-
-#EXTINF:-1 tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/Eurosport4K_655440_0.jpg" group-title="Sports", EUROSPORT 4K-35
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-126000&checkedby
-
-#EXTINF:-1 tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/Eurosport4K_655440_0.jpg" group-title="Sports", EUROSPORT 4K-36
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-129600&checkedby
-
-#EXTINF:-1 tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/Eurosport4K_655440_0.jpg" group-title="Sports", EUROSPORT 4K-37
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-133200&checkedby
-
-#EXTINF:-1 tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/Eurosport4K_655440_0.jpg" group-title="Sports", EUROSPORT 4K-38
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-136800&checkedby
-
-#EXTINF:-1 tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/Eurosport4K_655440_0.jpg" group-title="Sports", EUROSPORT 4K-39
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-140400&checkedby
-
-#EXTINF:-1 tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/Eurosport4K_655440_0.jpg" group-title="Sports", EUROSPORT 4K-40
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-144000&checkedby
-
-#EXTINF:-1 tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/Eurosport4K_655440_0.jpg" group-title="Sports", EUROSPORT 4K-41
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-147600&checkedby
-
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd.jpg" group-title="Sports", TrueSport HD 1
-https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd2.jpg" group-title="Sports", TrueSport HD 2
-https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd3.jpg" group-title="Sports", TrueSport HD 3
-https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport4.png" group-title="Sports", TrueSport HD 4
-https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports2.jpg" group-title="Sports", TrueSport 2
-https://www.livedoomovies.com/02_sport2_480p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports5.jpg" group-title="Sports", TrueSport 5
-https://www.livedoomovies.com//02_sport5_480p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports6.jpg" group-title="Sports", TrueSport 6
-https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports7.jpg" group-title="Sports", TrueSport 7
-https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsporthd.jpg" group-title="Sports", Fox Sport 1
-https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsport2.jpg" group-title="Sports", Fox Sport 2
-https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsport3.jpg" group-title="Sports", FOX Sport 3
-https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein1.jpg" group-title="Sports", Bein Sports 1
-https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein2.jpg" group-title="Sports", Bein Sports 2
-https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="1" group-title="Sports", Varzesh TV 2
-http://51.158.176.190/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="1" group-title="Sports", Varzesh TV 3
-http://51.15.236.137/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="1" group-title="Sports", Varzesh TV 4
-http://163.172.138.186/hls/stream.m3u8
+#EXTINF:-1,BEINSPORT6 HD
+http://hls01-06.az.myvideo.az/hls-live/livepkgr/sport6/sport6/sport6.m3u8
+#EXTINF:0,Bein Sports 1HD
+rtmp://180.250.29.12:1935/jhos/beib1_5
+#EXTINF:0,Bein Sports 2HD
+rtmp://180.250.29.12:1935/jhos/beib2_5
+#EXTINF:0,Bein Sports 3HD
+rtmp://180.250.29.12:1935/jhos/beib3_5
+#EXTINF:-1,Bein Sport 1
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/748.ts
+#EXTINF:-1,Bein Sport 2
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/749.ts
+#EXTINF:-1,Bein Sport 3
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/750.ts
+#EXTINF:-1,Bein Sport 4
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/751.ts
+#EXTINF:-1,Bein Sport 5
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/752.ts
+#EXTINF:-1,Bein Sport 6
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/753.ts
+#EXTINF:-1,Bein Sport 7
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/754.ts
+#EXTINF:-1,Bein Sport 8
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/755.ts
+#EXTINF:-1,Bein Sport 9
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/756.ts
+#EXTINF:-1,Bein Sport 10
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/757.ts
+#EXTINF:-1,Bein Sport 11
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/758.ts
+#EXTINF:-1,Bein Sport 12
+http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/759.ts
+#EXTINF:-1,TSN1
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8
+#EXTINF:0,TSN2
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8
+#EXTINF:0,TSN3
+http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8
+#EXTINF:0,TSN4
+http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8
+#EXTINF:0,TSN5
+http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8
+#EXTINF:-1,MBC SPORT HD 1
+http://intigral_live-lh.akamaihd.net/i/DPS3CPCHILXAHL130215_1@135296/index_1200_av-b.m3u8
+#EXTINF:-1,MBC SPORT HD 3
+http://intigral_live-lh.akamaihd.net/i/DPS3SPLSHOXTWN220315_1@301567/index_1200_av-b.m3u8
+#EXTINF:-1,AD Sports 1 (UAE)
+http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport1hd/chunklist_b880000.m3u8
+#EXTINF:-1,AD Sports 2 (UAE)
+http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport2hd/chunklist_b880000.m3u8
+#EXTINF:-1,Dubai Sports 3
+http://cdnehlsdubaisports3.endavomedia.com/smil:dmilivedubaisports3.smil/playlist.m3u8
+#EXTINF:-1,hk:WWE 24/7 USA
+rtmp://$OPT:rtmp-raw=rtmp://80.82.78.26:443/liverepeater playpath=49 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=49&width=600&height=450 token=#atd%#$ZH
+#EXTINF:0,Sport
+http://185.38.12.20:8088/sport/
+#EXTINF:0,Eurosport 1
+http://185.38.12.20:8088/eurosport/
+#EXTINF:0,Eurosport 2
+http://185.38.12.20:8088/eurosport2/
+#EXTINF:0,Canal+Deportes
+http://universalhdlive.marca.com/i/niagara4100_1@100200/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Sport TV 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:0,SPORT TV 2 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:0,Sport TV 3 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:-1,Sport TV 4 (Portugal)
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live4-w04by swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/
+#EXTINF:-1,Silk Sport 1 (Georgia)
+rtmp://$OPT:rtmp-raw=rtmp://edge01-01.nl.myvideo.ge/dvrh264/silk_football/mp4:silk_football swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/
+#EXTINF:-1,Silk Sport 2 (Georgia)
+rtmp://$OPT:rtmp-raw=rtmp://edge01-01.nl.myvideo.ge/dvrh264/silk_sport/mp4:silk_sport swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/
+#EXTINF:-1,Silk Sport 3 (Georgia)
+http://80.77.52.6:4444/udp/230.0.6.3:12345
+#EXTINF:-1,AZTV (Azerbaijan)
+http://hls01-07.az.myvideo.az/hls-live/livepkgr/aztv/aztv/aztv.m3u8
+#EXTINF:-1,Idman (Azerbaijan)
+http://hls01-07.az.myvideo.az/hls-live/livepkgr/idman/idman/idman.m3u8
+#EXTINF:0,ARENASPORT 1
+http://89.35.222.169:20000/ipvt_001
+#EXTINF:0,ARENASPORT 2
+http://89.35.222.169:20000/ipvt_002
+#EXTINF:-1,Eurosport (French)
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
+#EXTINF:0,Sport 1 (Russia)
+http://hls.novotelecom.ru/streaming/sport1/tvrec/playlist.m3u8
+#EXTINF:0,Football (Russia)
+http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8
+#EXTINF:-1, ESPN HD
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?
+#EXTINF:-1, ESPN
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?
+#EXTINF:-1, ESPN2
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?
+#EXTINF:-1,TRT Spor (Turkey)
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/index_500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Sport5 1
+http://s5-s.nsacdn.com:1935/sport5_LiveIsraelRepeat/LiveIsrael_4/playlist.m3u8
+#EXTINF:-1,Sport5 2
+rtmp://$OPT:rtmp-raw=rtmp://s5-s.nsacdn.com:1935/sport5_Live1Repeat/Live1_1 swfUrl=http://playern.sport5.co.il/Plugins/RTMPPlugin.swf pageUrl=http://playern.sport5.co.il/Player.aspx?clipId=Live1&Type=live
+#EXTINF:-1,Sport5 3
+rtmp://$OPT:rtmp-raw=rtmp://s5-s.nsacdn.com:1935/sport5_Live3Repeat/Live3_3 swfUrl=http://playern.sport5.co.il/Plugins/RTMPPlugin.swf pageUrl=http://playern.sport5.co.il/Player.aspx?clipId=Live3&Type=live
+#EXTINF:-1, British Sports HD
+http://93.184.221.133/00573D/1210/1210-0.m3u8
+#EXTINF:-1, British Sports2
+http://93.184.221.133/00573D/1211/1211-0.m3u8
+#EXTINF:-1, BBC Sport
+http://93.184.221.133/00573D/1104/1104-0.m3u8
+#EXTINF:-1, ESPN esp
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE05.m3u8?
+#EXTINF:-1, ESPN 2 esp
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE05.m3u8?
+#EXTINF:-1, ESPN 3 HD
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE05.m3u8?
+#EXTINF:-1, Fox Sports HD
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE05.m3u8?
+#EXTINF:-1,Fox Sports 2 HD
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE05.m3u8?
+#EXTINF:-1, ESPN HD
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE05.m3u8?
+#EXTINF:0,SportsNet360
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+#EXTINF: -1, Eurosport
+http://146.158.123.198:4022/udp/239.72.6.50:1234
+#EXTINF: -1, Eurosport 2
+http://146.158.123.198:4022/udp/239.72.6.51:1234
+#EXTINF:-1,NBC Sports Golf 720p
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,NBC Sports Network 1080P
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,NBC Sports Network
+rtmp://$OPT:rtmp-raw=rtmp://w3.vmnode.pw:2195/live playpath=nbcsn swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/nbcsn1.php live=true timeout=20
+#EXTINF:-1, ESPN 1080p
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE05.m3u8?
+#EXTINF:-1,Fox Sport
+http://113.160.49.34/lives/origin03/foxhd.isml/foxhd-2096k.m3u8
+#EXTINF:-1,Fox Sports 2 1080p
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE05.m3u8?
+#EXTINF:-1,Fox Sport News
+http://foxsportshdhls-lh.akamaihd.net/i/fsnewshls_0@136427/index_2128_av-p.m3u8?sd=10&rebase=on
