@@ -1,9 +1,23 @@
 #EXTM3U
 
 
-
+#EXTINF:-1,ABC
+http://161.0.157.5/PLTV/88888888/224/3221227013/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ABC NEWS
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-b.m3u8
+
+
+#EXTINF:-1,CNN
+http://161.0.157.9/PLTV/88888888/224/3221226845/index.m3u8
+#EXTINF:-1,CNN SD
+http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8
+#EXTINF:,CNBC
+http://161.0.157.38/PLTV/88888888/224/3221227005/index.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Adult Swim
 http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
@@ -29,6 +43,11 @@ http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CBS News
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
+#EXTINF:-1,CBC Television
+http://161.0.157.50/PLTV/88888888/224/3221227004/index.m3u8
+#EXTINF:-1,CBS
+http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cheddar
 https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8
 
@@ -44,6 +63,12 @@ http://etlive-mediapackage-fastly.cbsaavideo.com/live/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Sports
 https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1,FOX HD
+http://161.0.157.38/PLTV/88888888/224/3221227013/index.m3u8
+
+#EXTINF:-1,Fox Sports Racing
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", M2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
@@ -83,6 +108,38 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", REDBULL TV
 https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1,Big Ten Network
+http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1,HBO
+http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
+#EXTINF:-1,HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
+
+#EXTINF:-1,NBC 5
+http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1,NBC GOLF
+http://161.0.157.9/PLTV/88888888/224/3221226812/index.m3u8
+#EXTINF:-1,SPORTS MAX
+http://161.0.157.9/PLTV/88888888/224/3221226766/index.m3u8
+#EXTINF:-1,TEN CRICKET
+http://161.0.157.38/PLTV/88888888/224/3221226394/index.m3u8
+#EXTINF:-1,Universal Channel HD
+http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
+#EXTINF:-1,ZEE World
+http://161.0.157.38/PLTV/88888888/224/3221226542/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPIKE
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=19b70f7d-30c0-4ede-9a23-83600637213d&deviceId=05adad54-d314-4eae-84b6-4fecf221e693&deviceVersion=75.0.3770.142&appVersion=2.7.1-5725cf052c6d5a7776009f53b7086f64da9ef528&deviceDNT=0&userId=&advertisingId=&deviceLat=37.751&deviceLon=-97.822&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
