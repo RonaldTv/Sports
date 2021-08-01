@@ -53,7 +53,7 @@ http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
 http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZUg5vhn.png" group-title="24/7 ADULT SWIM",Robot Chicken
-https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
+http://streamstat.net/play.cgi?sid=160114683&ext=.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zSs1e5z.png" group-title="24/7 ADULT SWIM",Squidbillies
 https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_7.m3u8
